@@ -1,0 +1,7 @@
+---
+
+- name: In-Memory Inventory
+  import_playbook: mitzidotcom.userinfo.in_memory_inventory
+
+- name: Deploy Apps
+  import_playbook: mitzidotcom.userinfo.config
