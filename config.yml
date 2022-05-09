@@ -1,0 +1,4 @@
+---
+
+- name: Deploy App
+  import_playbook: mitzidotcom.userinfo.config
