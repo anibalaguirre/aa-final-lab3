@@ -2,6 +2,3 @@
 
 - name: In-Memory Inventory
   import_playbook: mitzidotcom.userinfo.in_memory_inventory
-
-- name: Provision instances
-  import_playbook: mitzidotcom.userinfo.provision

@@ -1,4 +1,4 @@
 ---
 
-- name: Deploy Three Tier App
+- name: Provision instances
   import_playbook: mitzidotcom.userinfo.provision
