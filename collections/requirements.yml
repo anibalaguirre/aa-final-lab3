@@ -4,5 +4,5 @@ collections:
   - community.general
   - openstack.cloud
   - community.mysql
-  - mycollections.threetierapp
+  - mitzidotcom.userinfo
   
